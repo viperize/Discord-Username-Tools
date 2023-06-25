@@ -8,6 +8,9 @@ Discord name generator (finder, sniper, validator or whatever), can either go th
 [![GPL-3.0 License][license-shield]][license-url]
 
 
+## Disclaimer
+This tool is for educational use, the author will not be held responsible for any misuse of this tool.
+
 ## About Discordize
 
 ### Installation Guide Below
